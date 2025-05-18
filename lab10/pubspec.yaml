@@ -1,0 +1,20 @@
+name: lab9
+description: A new Flutter project for lab 9.
+environment:
+  sdk: '>=3.5.0 <4.0.0'   # 3.7 works
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core:      ^2.19.0
+  cloud_firestore:    ^4.15.3
+  firebase_storage:   ^11.7.3   # brings the correct firebase_storage_web
+  image_picker:       ^1.0.8
+  path_provider:      ^2.1.2
+  permission_handler: ^11.3.1
+  js: ^0.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

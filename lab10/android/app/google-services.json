@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92080404687",
+    "project_id": "socialmedia-lab9",
+    "storage_bucket": "socialmedia-lab9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92080404687:android:e5868935c02764a82c1fba",
+        "android_client_info": {
+          "package_name": "com.example.social_media_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnz9u69fdvgNDYF6On-FFS6fMqglIJFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
